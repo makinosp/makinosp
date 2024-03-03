@@ -1,7 +1,4 @@
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makinosp&layout=compact&show_icons=true" />
-</p>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=makinosp&theme=transparent&layout=compact&show_icons=true)
 ![](https://skillicons.dev/icons?i=swift,js,docker&theme=light)
 
 <!--

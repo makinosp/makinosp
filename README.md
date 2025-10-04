@@ -1,1 +1,3 @@
-![](https://github-readme-stats-chi-seven-73.vercel.app/api/top-langs/?username=makinosp&theme=transparent&layout=donut&count_private=true)
+![stats](https://github-readme-stats.vercel.app/api/?username=makinosp&theme=transparent&show_icons=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=makinosp&no-bg=true)](https://github.com/makinosp)

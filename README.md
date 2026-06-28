@@ -1,4 +1,4 @@
-# 👋 Hi, I'm makinosp
+# 👋 Hi, I'm Makinon(まきのん)
 
 ## 🚀 About Me
 

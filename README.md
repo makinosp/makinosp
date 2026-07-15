@@ -16,12 +16,12 @@ My core philosophy is centered around code quality and long-term maintainability
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-DE5C46?style=for-the-badge&logo=rust&logoColor=white)
-![Nim](https://img.shields.io/badge/Nim-FFE873?style=for-the-badge&logo=nim&logoColor=black)
 
 ### Frameworks & Tools
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-DADADA?style=for-the-badge&logo=fastify&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-20FC85?style=for-the-badge&logo=vitest&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
